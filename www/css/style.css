@@ -1,0 +1,25 @@
+.login-page{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/login_bg.png);
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.login-page .loge{
+    width: 8rem;
+    margin-top: 4rem;
+}
+.login-page .loge img{
+    width: 8rem;
+}
+.login-page .login-form{
+    width: 85%;
+    margin-top: 2rem;
+    background-color: #ffffff;
+}
+.loginBtn{
+    width: 85%;
+    margin-top: 2rem;
+}
